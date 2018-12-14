@@ -4,19 +4,8 @@
  * master分支采用vue-cli构建的2.0版本。
  * ssr分支采用服务端渲染
  * 1.x代码请看1.x分支。
- * not-vue-cli则是没有采用vue-cli搭建的原始版本
-
--------
-#### ` 如果对你有帮助，恳请给作者累积一个大保健的机会，欢迎扫码`
-![](http://ww1.sinaimg.cn/large/79462090ly1flmcqgz0xwj21080q2anh.jpg)
-
-###安装
-
-项目地址：（`git clone`）
-
-```shell
-git clone https://github.com/shinygang/Vue-cnodejs.git
-```
+ * not-vue-cli则是没有采用vue-cli搭建的原始版
+ 
 
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
